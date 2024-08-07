@@ -1,0 +1,6 @@
+{
+  "exec": "babel-node --presets @babel/preset-env",
+  "watch": ["src"],
+  "ext": "js,json"
+}
+
